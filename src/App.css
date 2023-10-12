@@ -1,1 +1,9 @@
-
+.ex-but-hov-1 {
+  height: 250px;
+  width: 250px;
+  margin: 5px;
+  font-size: xx-large;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
